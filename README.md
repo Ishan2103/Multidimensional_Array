@@ -1,8 +1,5 @@
 # To study and implement 2D arrays in C++
 
-**Name:** Ninad Phatak  
-**PRN:** 24070123065  
-**Batch:** ENTC A3  
 
 ---
 
